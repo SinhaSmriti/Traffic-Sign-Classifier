@@ -1,1 +1,2 @@
 # Traffic-Sign-Classifier
+This project is designed to classify and predict the traffic signs. It is built using Convolution Neural Network (CNN) with TensorFlow and Keras. The model is trained on the German Traffic Sign Recognition Benchmark (GTSRB) dataset, which contains images of traffic signs in 43 different classes. The classification results are displayed using Streamlit, an open-source app framework in python language. It helps create web apps for data science and machine learning in little time.
